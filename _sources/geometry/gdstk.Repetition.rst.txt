@@ -1,0 +1,38 @@
+﻿gdstk.Repetition
+================
+
+.. currentmodule:: gdstk
+
+.. autoclass:: Repetition
+   :members:
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      
+      
+         ~Repetition.get_offsets
+      
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+   
+      ~Repetition.columns
+      ~Repetition.offsets
+      ~Repetition.rows
+      ~Repetition.size
+      ~Repetition.spacing
+      ~Repetition.v1
+      ~Repetition.v2
+      ~Repetition.x_offsets
+      ~Repetition.y_offsets
+   
+   

@@ -1,0 +1,50 @@
+﻿gdstk.Reference
+===============
+
+.. currentmodule:: gdstk
+
+.. autoclass:: Reference
+   :members:
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      
+      
+         ~Reference.apply_repetition
+      
+      
+         ~Reference.bounding_box
+      
+      
+         ~Reference.copy
+      
+      
+         ~Reference.delete_property
+      
+      
+         ~Reference.get_property
+      
+      
+         ~Reference.set_property
+      
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+   
+      ~Reference.cell
+      ~Reference.magnification
+      ~Reference.origin
+      ~Reference.repetition
+      ~Reference.rotation
+      ~Reference.x_reflection
+   
+   
